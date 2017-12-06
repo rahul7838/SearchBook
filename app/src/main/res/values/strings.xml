@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SearchBook</string>
+    <string name="search_button">Search</string>
+    <string name="search_hint">hint:book/author name</string>
+</resources>
